@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pocket Monster</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="gamelogo">北辰明的口袋怪兽</string>
+    <string name="gamemenue">GameMenue</string>
+
+</resources>
